@@ -2,13 +2,17 @@
 Pattern Name and Classification
 Padrão Memento
 • Padrão Comportamental
+
 Intent e Motivation
 • 1. Permite capturar e externalizar um estado de um objeto.
 • 2. O objetivo desse padrão é fornecer uma maneira de implementação desse conceito sem quebrar as regras de encapsulamento
 • 3. É utilizado para programas recupere errs.
+
 Applicability
 • O Padrão Adapter permite pegar um estado de objeto e alterar mais tarde.,.
+
 Structure
+
 
 
 
