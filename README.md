@@ -25,3 +25,8 @@
   • Originator: Classe na qual o estado atual é mantido. <br />
   • Caretaker: Responsável por armazenar e restaurar o estado do Originador. <br />
 
+
+### **Sample**
+•	[Codigo feito](https://github.com/FilipeAmorim/programacaoavancada/blob/9cb48fac957da3c19f8ab3c9b4d5ad1c53c99139/Memento.class)<br />
+
+
